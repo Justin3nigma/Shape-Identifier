@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\negma\OneDrive - Seneca\4th fucking semester\JAC\Workshops\WS02\WS02\workshop2\.metadata\.plugins\org.eclipse.jdt.core
+552390072.index
+2196199803.index
